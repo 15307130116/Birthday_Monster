@@ -3,7 +3,7 @@ Happy Birthday! So have you been ready for the fantastic game?
 
 * A cool game made by unity
 * With four collection factors in it
-* The style is similar to super mario (car edition)
+* The style is similar to super mario (cat edition)
 * Wait for what? Click the Baidu Cloud link quickly!
 
 ### First scene
